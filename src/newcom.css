@@ -1,0 +1,30 @@
+.Default{
+	border-radius:5px;
+	background-color:#f0f0f0;
+	margin:2px 5px;
+	border-color:#f0f0f0;
+
+}
+.Primary{
+	border-radius:5px;
+	background-color:blue;
+	margin:2px 5px;
+	color:white;
+	border-color:blue;
+}
+.Secondary{
+	border-radius:5px;
+	background-color:red;
+	margin:2px 5px;
+	color:white;
+	border-color:red;
+
+}
+.Disabled{
+	border-radius:5px;
+	background-color:#dfdfdf;
+	color:#bbbbbb;
+	margin:2px 5px;
+	border-color:#dfdfdf;
+
+}
